@@ -1,0 +1,43 @@
+.balanceContainer{
+    background-color: var(--Soft-red);
+    color: var(--Very-pale-orange);
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 5em;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+
+.balanceBlock, .logo{
+    margin: 1.5em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.balanceBlock {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.balanceHeading{
+    font-size: 15px;
+    font-weight: 400;
+}
+.balanceAmount{
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+@media only screen and (min-width: 600px){
+    .balanceContainer{
+        width: 50%;
+    }
+}
+
+@media only screen and (min-width: 1200px){
+    .balanceContainer{
+        width: 30%;
+    }
+}

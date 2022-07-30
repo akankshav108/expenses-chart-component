@@ -1,0 +1,53 @@
+.barBlock{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: flex-end;
+    text-align: center;
+    height: 25vh;
+}
+
+.amount{
+    font-size: 15px;
+    display: none;
+    position: absolute;
+    background-color: var(--Dark-brown);
+    top: 0;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    margin: 0 auto;
+    min-width: 3em;
+    color: white;
+    padding: 0.5em;
+    border-radius: 5px;
+}
+.bar{
+    padding-top: 2em;
+    background-color: var(--Soft-red);
+    border-radius: 3px;
+    width: 1.6em;
+    cursor: pointer;
+    margin: 0 auto;
+}
+
+.activeBar{
+    background-color: var(--Cyan);
+}
+
+.barBlock:hover .amount{
+    display: block;
+}
+.day{
+    font-size: 12px;
+    color: var(--Medium-brown);
+}
+
+@media only screen and (min-width: 1200px){
+    .bar{
+        width: 2.3em;
+    }
+    
+}

@@ -1,0 +1,28 @@
+.totalExpenseContainer{
+    padding: 1.5rem 1rem 1.5rem 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.expenseInfoBlock{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.blockHeading{
+    font-size: 15px;
+    color: var(--Medium-brown);
+}
+
+.expenseAmount{
+    font-size: 2em;
+    font-weight: 700;
+    color: var(--Dark-brown);
+}
+
+.expenseStats{
+    font-weight: 700;
+    color: var(--Dark-brown);
+    text-align: right;
+}
