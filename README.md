@@ -35,8 +35,8 @@ Users should be able to:
 ![Screenshot - mobile](./public/ss-mobile.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/akankshav108/expenses-chart-component)
+- Live Site URL: [live site URL](https://akankshav108.github.io/expenses-chart-component/)
 
 ## My process
 
