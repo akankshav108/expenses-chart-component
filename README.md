@@ -28,7 +28,7 @@ Users should be able to:
 
 #### Screenshot - PC
 
-![Screenshot - PC](./src/Images/pc-ss.png)
+![Screenshot - PC](./src/Images/ss-pc.png)
 
 #### Screenshot - Mobile
 
