@@ -1,9 +1,6 @@
 .chartContainer{
     background-color: var(--Very-pale-orange);
-    width: 90%;
-    margin: 0 auto;
     margin-top: 1em;
-    border-radius: 10px;
     min-height: 30vh;
     margin-bottom: 2em;
 }
@@ -30,16 +27,4 @@ hr{
     margin: 0 1em 0 1em;
     border: none;
     border-bottom: 2px solid var(--Cream);
-}
-
-@media only screen and (min-width: 600px){
-    .chartContainer{
-        width: 50%;
-    }
-}
-
-@media only screen and (min-width: 1200px){
-    .chartContainer{
-        width: 30%;
-    }
 }

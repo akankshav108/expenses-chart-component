@@ -1,6 +1,7 @@
 import React from "react";
 import Styles from "./SpendingChart.module.css";
 import Chart from "./Chart";
+import Card from "../UI/Card";
 import TotalExpense from "./TotalExpense";
 
 const SpendingChart = (props) => {
@@ -13,7 +14,7 @@ const SpendingChart = (props) => {
   const maxValue = Math.max(...allAmounts);
 
   return (
-    <div className={Styles.chartContainer}>
+    <Card className={Styles.chartContainer}>
       <div className={Styles.chartHeading}>Spending - Last 7 days</div>
       <div className={Styles.barContainer}>
         {expenseData.map((element) => {
@@ -31,7 +32,7 @@ const SpendingChart = (props) => {
       </div>
       <hr></hr>
       <TotalExpense />
-    </div>
+    </Card>
   );
 };
 
