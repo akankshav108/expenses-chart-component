@@ -28,11 +28,11 @@ Users should be able to:
 
 #### Screenshot - PC
 
-![Screenshot - PC](./src/images/ss-pc.png)
+![Screenshot - PC](./src/Images/pc-ss.png)
 
 #### Screenshot - Mobile
 
-![Screenshot - mobile](./src/images/ss-mobile.png)
+![Screenshot - mobile](./src/Images/ss-mobile.png)
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
