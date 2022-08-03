@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/expenses-chart-component/precache-manifest.59804b5eab0568be1200d0a654b4e794.js"
+  "/expenses-chart-component/precache-manifest.0fd66a76419f407faa0bee500752ecea.js"
 );
 
 workbox.clientsClaim();

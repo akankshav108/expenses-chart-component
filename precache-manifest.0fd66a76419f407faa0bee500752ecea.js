@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "49ba9381e1693e1dd082",
-    "url": "/expenses-chart-component/static/css/main.334372ec.chunk.css"
+    "revision": "091c86a2da173d423d9a",
+    "url": "/expenses-chart-component/static/css/main.6199f8b3.chunk.css"
   },
   {
-    "revision": "49ba9381e1693e1dd082",
-    "url": "/expenses-chart-component/static/js/main.49ba9381.chunk.js"
+    "revision": "091c86a2da173d423d9a",
+    "url": "/expenses-chart-component/static/js/main.091c86a2.chunk.js"
   },
   {
     "revision": "8c98aab82769540efb62",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/expenses-chart-component/static/media/logo.db22b20e.svg"
   },
   {
-    "revision": "c17bf03da5a5a224f6c8f815cca439b6",
+    "revision": "7a03572b9e7db9b1ea928e39897d1dee",
     "url": "/expenses-chart-component/index.html"
   }
 ];
