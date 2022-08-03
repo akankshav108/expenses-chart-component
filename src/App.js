@@ -6,10 +6,10 @@ import data from "./data.json";
 
 function App() {
   return (
-    <div className="App">
+    <main className="App">
       <Balance />
       <SpendingChart data = {data}/>
-    </div>
+    </main>
   );
 }
 

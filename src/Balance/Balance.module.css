@@ -1,7 +1,7 @@
 .balanceContainer{
     background-color: var(--Soft-red);
     color: var(--Very-pale-orange);
-    margin-top: 5em;
+    /* margin-top: 5em; */
     display: flex;
     justify-content: space-between;
 }

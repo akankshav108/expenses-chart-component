@@ -15,7 +15,7 @@ const SpendingChart = (props) => {
 
   return (
     <Card className={Styles.chartContainer}>
-      <div className={Styles.chartHeading}>Spending - Last 7 days</div>
+      <h1 className={Styles.chartHeading}>Spending - Last 7 days</h1>
       <div className={Styles.barContainer}>
         {expenseData.map((element) => {
           return (
